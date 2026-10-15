@@ -1,7 +1,6 @@
 # The-WaterCo-Shower-Timer
 This is my WaterCo Shower Timer code created within the Microsoft Make Code program for the BBC MicroBit.
 > Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
