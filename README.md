@@ -1,22 +1,21 @@
 # The-WaterCo-Shower-Timer
 This is my WaterCo Shower Timer code created within the Microsoft Make Code program for the BBC MicroBit.
->  A coding prototype which tackles the problem of the water waste in households and improves individual’s habits of exceeding too much water when showering. This timer aims to limit water wastage and promote conserving water to improve the natural world
+>  A coding prototype which tackles the problem of the water waste in households and improves individual’s habits of exceeding too much water when showering. This timer aims to limit water wastage and promote conserving water to improve the natural world.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
+* [Sources and Tutorials Used](#sources-and-tutorials-used)
 * [Features](#features)
 
 
 ## General Information
-- The WaterCo Shower Timer is a physical computing project in which utilises 
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
+- The WaterCo Shower Timer is a physical computing project in which utilises a MicroBit V2 microcontroller and the platform of Microsoft MakeCode.
+- It intends to allow users to monitor their water usage by using a countdown to symbolise the appropriate timing of how long you should shower to use less water and have less strain upon natural resources.
+- This coding prototype was selected as it is seen that the overuse and wastage of water is a major contributor to climate change. As a young person myself, the issue of climate change and its effects directly impacts my and others futures. I want to improve the natural world through allowing users the capabilities to monitor their habits and minimise their carbon footprints.
 
 
-## Technologies Used
-- Tech 1 - version 1.0
+## Sources and Tutorials Used
+- 
 - Tech 2 - version 2.0
 - Tech 3 - version 3.0
 
