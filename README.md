@@ -15,15 +15,15 @@ This is my WaterCo Shower Timer code created within the Microsoft Make Code prog
 
 
 ## Sources and Tutorials Used
-- 
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Mr Morrison YouTube video "How to create a countdown timer with the micro:bit"
+-  Stephen Reid YouTuve video "Micro:bit countdown exercise timer” 
 
 
 ## Features
-List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+Features of the MicroBit V2 used:
+- Buttons
+- Censors
+- LED lights
+- Built-in speaker
 
 
