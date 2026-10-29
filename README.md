@@ -15,15 +15,16 @@ This is my WaterCo Shower Timer code created within the Microsoft Make Code prog
 
 
 ## Sources and Tutorials Used
-- Mr Morrison YouTube video "How to create a countdown timer with the micro:bit"
--  Stephen Reid YouTuve video "Micro:bit countdown exercise timer” 
+- Mr Morrison. (2025, October 3). How to create a countdown timer with the micro:bit [Video]. YouTube. https://www.youtube.com/watch?v=Dg363zrjXd0
+-  Stephen Reid. (2020, April 24). Micro:bit countdown exercise time [Video]. YouTube. https://www.youtube.com/watch?v=V_ZyvSAisNg&t=1s
+-  Micro:bit Educational Foundation. (n.d.). Touch timer. Make It: Code It. https://microbit.org/projects/make-it-code-it/touch-timer/  
 
 
 ## Features
-Features of the MicroBit V2 used:
-- Buttons
-- Censors
-- LED lights
-- Built-in speaker
+Features of the MicroBit V2 used within this prototype:
+- Buttons.
+- Censors.
+- LED lights.
+- Built-in speakers.
 
 
